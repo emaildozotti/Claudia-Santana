@@ -55,20 +55,20 @@ export const Hero: React.FC = () => {
           </motion.div>
         </div>
 
-        {/* Visual Placeholder for Desktop - Hidden on small mobile to focus on copy */}
-        <div className="hidden md:block md:col-span-5 relative h-full min-h-[400px]">
+        {/* Hero Image */}
+        <div className="md:col-span-5 relative h-full min-h-[300px] md:min-h-[400px] mt-12 md:mt-0">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1 }}
-            className="w-full h-full rounded-xl overflow-hidden shadow-2xl border border-slate-800 relative grayscale hover:grayscale-0 transition-all duration-700"
+            className="w-full h-full rounded-xl overflow-hidden shadow-2xl border border-slate-800 relative transition-all duration-700"
           >
             <img
-              src="https://picsum.photos/600/800?grayscale"
-              alt="Man alone in office at night"
+              src="https://i.imgur.com/JoIk6Vt.jpeg"
+              alt="Claudia - Terapeuta"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-slate-900/30 mix-blend-multiply"></div>
+            <div className="absolute inset-0 bg-slate-900/10 mix-blend-multiply"></div>
           </motion.div>
         </div>
       </div>

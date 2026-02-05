@@ -11,7 +11,7 @@ export const About: React.FC = () => {
           initial={{ opacity: 0, x: 50 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
-          className="order-2 lg:order-1"
+          className="order-1 lg:order-1"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-slate-100 mb-6">
             EU JÁ ESTIVE ONDE VOCÊ ESTÁ.
@@ -41,11 +41,11 @@ export const About: React.FC = () => {
           initial={{ opacity: 0, x: -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
-          className="order-1 lg:order-2 flex justify-center"
+          className="order-2 lg:order-2 flex justify-center"
         >
           <div className="relative w-full max-w-md aspect-[3/4] rounded-lg overflow-hidden shadow-2xl border border-slate-800">
             <img
-              src="https://picsum.photos/800/1000?grayscale"
+              src="https://i.imgur.com/uwj7CKC.jpeg"
               alt="Claudia - Terapeuta"
               className="w-full h-full object-cover"
             />
