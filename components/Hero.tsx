@@ -64,7 +64,7 @@ export const Hero: React.FC = () => {
             className="w-full h-full rounded-xl overflow-hidden shadow-2xl border border-slate-800 relative transition-all duration-700"
           >
             <img
-              src="https://i.imgur.com/JoIk6Vt.jpeg"
+              src="https://i.imgur.com/uwj7CKC.jpeg"
               alt="Claudia - Terapeuta"
               className="w-full h-full object-cover"
             />

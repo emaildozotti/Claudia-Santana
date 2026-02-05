@@ -45,7 +45,7 @@ export const About: React.FC = () => {
         >
           <div className="relative w-full max-w-md aspect-[3/4] rounded-lg overflow-hidden shadow-2xl border border-slate-800">
             <img
-              src="https://i.imgur.com/uwj7CKC.jpeg"
+              src="https://i.imgur.com/JoIk6Vt.jpeg"
               alt="Claudia - Terapeuta"
               className="w-full h-full object-cover"
             />
