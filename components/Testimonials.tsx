@@ -4,16 +4,16 @@ import { Quote } from 'lucide-react';
 
 const testimonials = [
   {
-    text: "Eu achava que terapia era coisa de gente fraca. A Claudia não veio com papo furado, ela foi direto no ponto. Pela primeira vez em 10 anos, consegui dormir em paz.",
-    author: "R.S., Empresário, 42 anos."
+    text: "Eu achava que precisava carregar o mundo nas costas e que pedir ajuda era sinal de fracasso. A Claudia me ensinou que ser forte é saber quando parar. Hoje sou um pai e um profissional muito mais presente.",
+    author: "R.S., Executivo, 45 anos."
   },
   {
-    text: "Estava pronto para desistir de tudo. Achava que minha família ficaria melhor sem mim (por causa do seguro). A Claudia me fez ver que minha presença vale mais que meu dinheiro. Hoje estou vivo por causa dela.",
-    author: "M.A., Advogado, 38 anos."
+    text: "Cheguei exausta de tentar ser perfeita em tudo: no trabalho, em casa e como mãe. O acolhimento da Claudia foi o único lugar onde pude tirar a máscara e finalmente respirar. Ela salvou minha saúde mental.",
+    author: "L.M., Médica e Mãe, 38 anos."
   },
   {
-    text: "Ela fala a nossa língua. Não tem julgamento, tem parceria. É como conversar com alguém que já foi no inferno e voltou com o mapa.",
-    author: "J.C., Engenheiro, 50 anos."
+    text: "Eu me sentia perdido e pressionado por todo lado. Não conseguia falar com meus pais. Com a Claudia, senti que alguém finalmente falava a minha língua sem me julgar. Hoje sei quem eu sou.",
+    author: "G.B., Estudante, 17 anos."
   }
 ];
 
