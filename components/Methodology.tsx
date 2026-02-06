@@ -5,8 +5,8 @@ import { Ear, Anchor, Clock } from 'lucide-react';
 const pillars = [
   {
     icon: <Ear className="w-10 h-10 text-slate-200" />,
-    title: "A Escuta \"Irmão para Irmão\"",
-    description: "Uma conversa franca, direta e bruta. Aqui você pode tirar a armadura, falar sobre seus medos mais sombrios e ser validado, nunca julgado."
+    title: "A Escuta \"De Igual para Igual\"",
+    description: "Uma conversa franca, direta e bruta. Aqui você pode tirar a armadura, falar sobre seus medos mais sombrios e ter seus sentimentos validados, nunca julgados."
   },
   {
     icon: <Anchor className="w-10 h-10 text-amber-500" />,

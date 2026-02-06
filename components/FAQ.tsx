@@ -5,7 +5,7 @@ import { Plus, Minus } from 'lucide-react';
 const questions = [
   {
     question: "O sigilo é garantido mesmo?",
-    answer: "Absolutamente. Nossa conversa é um túmulo. Nada do que for dito sai da sessão. O ambiente é seguro para você falar o que jamais falaria para sua esposa ou sócios."
+    answer: "Absolutamente. Nossa conversa é um túmulo. Nada do que for dito sai da sessão. O ambiente é seguro para você falar o que jamais falaria para sua família ou sócios."
   },
   {
     question: "Preciso ser religioso para fazer a terapia?",

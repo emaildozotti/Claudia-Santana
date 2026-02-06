@@ -23,7 +23,7 @@ export const Testimonials: React.FC = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-2xl md:text-3xl font-bold text-slate-100">
-            HOMENS QUE REENCONTRARAM O SENTIDO
+            VIDAS QUE REENCONTRARAM O SENTIDO
           </h2>
         </div>
 

@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-base md:text-lg text-slate-400 leading-relaxed max-w-xl mx-auto md:mx-0"
           >
-            A exaustão que você sente não é fraqueza, é o peso de carregar tudo sozinho por tempo demais. Eu fui ao fundo do poço e voltei, e estou aqui para ser a rocha firme que você precisa agora. Sem julgamentos, sem frases motivacionais. Apenas a verdade que cura.
+            A exaustão que você sente não é fraqueza, é o peso de carregar tudo sem apoio por tempo demais. Eu fui ao fundo do poço e voltei, e estou aqui para ser a rocha firme que você precisa agora. Sem julgamentos, sem frases motivacionais. Apenas a verdade que cura.
           </motion.p>
 
           <motion.div

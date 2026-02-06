@@ -31,7 +31,7 @@ export const About: React.FC = () => {
               Sei o que é sentir que a sua existência é um fardo para os outros. Sei o que é o "silêncio barulhento" da madrugada. Mas também sei o caminho de volta.
             </p>
             <p className="font-medium text-slate-200">
-              Hoje, dedico minha vida a ser o farol para homens que, assim como eu no passado, perderam o chão. Minha missão não é te consertar — você não está quebrado, está ferido. Minha missão é te ajudar a ficar de pé novamente.
+              Hoje, dedico minha vida a ser o farol para quem, assim como eu no passado, perdeu o chão. Minha missão não é te consertar — você não está quebrado, está ferido. Minha missão é te ajudar a ficar de pé novamente.
             </p>
           </div>
         </motion.div>
