@@ -8,6 +8,7 @@ import { Steps } from './components/Steps';
 import { Testimonials } from './components/Testimonials';
 import { FAQ } from './components/FAQ';
 import { Footer } from './components/Footer';
+import { VideoBlock } from './components/VideoBlock';
 
 const App: React.FC = () => {
   return (
@@ -15,6 +16,7 @@ const App: React.FC = () => {
       <NotificationBar />
       <main>
         <Hero />
+        <VideoBlock />
         <Diagnostic />
         <Methodology />
         <About />
